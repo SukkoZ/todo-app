@@ -1,6 +1,8 @@
+
 ## 📸 Screenshot
 
-assets/screenshot.png
+![Todo App Screenshot](assets/screenshot.png)
+
 
 
 
